@@ -91,6 +91,9 @@ author = "John Doe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
+
 # Instagram feed
 [params.instafeed]
 enable = false
