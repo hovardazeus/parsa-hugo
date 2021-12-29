@@ -8,7 +8,7 @@ categories:
   - "Food"
 tags:
   - "Photos"
-  - "Food"
+  - "Yaşam"
 ---
 
 Çeşitli ve zor hastalıklarla karşı karşıya kalan ve bakıma normal insanlardan daha fazla ihtiyaç duyan yaşlı bireylere, sıkı bir bakım yapılmak zorundadır. Normal genç insanlarla, vücut fonksiyonlarının ve dayanıklılığının bir tutulamayacağı gibi yaşlılar hastalıklara karşı daha hassastır ve daha fazla etkilenebilmektedir. [İzmir huzur evi](https://bilgebakimevi.com/) de profesyonel kadrosuyla ve uzman hekimleriyle beraber konforlu bir ortamda, yaşlı bireylerin bakımlarını en iyi şekilde üstlenmektedir.
