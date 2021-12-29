@@ -5,7 +5,7 @@ description: "This is meta description"
 type: "post"
 image: "images/masonary-post/post-2.jpg"
 categories: 
-  - "Food"
+  - "Yaşam"
 tags:
   - "Photos"
   - "Yaşam"
