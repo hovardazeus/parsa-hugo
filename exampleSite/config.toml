@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://examplesite.org"
-languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+languageCode = "tr-tr"
+title = "Huzur Evi"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -49,28 +49,28 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "Ana Sayfa"
 url = ""
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "Homepage"
+  parent = "Ana Sayfa"
   name = "Homepage 1"
   url = "homepage/home-1"
 
   [[menu.main]]
-  parent = "Homepage"
+  parent = "Ana Sayfa"
   name = "Homepage 2"
   url = "homepage/home-2"
 
 [[menu.main]]
-name = "About"
+name = "Hakkımızda"
 url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "iletişim"
 url = "contact"
 weight = 3
 
@@ -90,14 +90,6 @@ search = true
 author = "John Doe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-# Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
-# Contact Form Action
-contact_form_action = "#"
-# copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
