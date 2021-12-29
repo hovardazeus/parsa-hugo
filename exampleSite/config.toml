@@ -47,7 +47,7 @@ link = "plugins/search/search.js"
 # navigation
 [[menu.main]]
 name = "Ana Sayfa"
-url = ""
+url = "/"
 weight = 1
 hasChildren = true
 
